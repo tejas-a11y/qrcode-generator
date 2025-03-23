@@ -1,9 +1,9 @@
-# 📦 Folder Organizer
+# 🌐 QR Code Generator
 
 ## 🌟 Highlights
 
-- A simple script for managing cluttered filespaces
-- Organises on the basis of format. (Photos, Videos etc.)
+- A simple react app for generating Qr code
+- Built with useState() hook and third party component
 
 
 ## ℹ️ Overview
